@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://pedan.net/sitemap.xml
+Disallow: /ghost/
